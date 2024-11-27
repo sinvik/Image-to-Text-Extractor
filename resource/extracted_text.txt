@@ -1,0 +1,966 @@
+
+--- Page 1 ---
+Form 5500
+
+Department of the Treasury
+Internal Revenue Service
+
+Department of Labor
+Employee Benefits Security
+Administration
+
+Pension Benefit Guaranty Corporation
+
+Annual Return/Report of Employee Benefit Plan
+
+This form is required to be filed for employee benefit plans under sections 104
+
+OMB Nos. 1210-0110
+1210-0089
+
+and 4065 of the Employee Retirement Income Security Act of 1974 (ERISA) and
+sections 6057(b) and 6058(a) of the Internal Revenue Code (the Code).
+
+» Complete all entries in accordance with
+the instructions to the Form 5500.
+
+2023
+
+This Form is Open to Public
+Inspection
+
+Part |
+
+Annual Report Identification Information
+
+For calendar plan year 2023 or fiscal plan year beginning 01/01/2023
+
+andending 12/31/2023
+
+A This return/report is for:
+
+B This return/report is:
+
+C Ifthe plan is a collectively-bargained plan, check here...............- .
+
+D Check box if filing under:
+
+x
+
+a multiemployer plan
+
+a single-employer plan a DFE (specify)
+
+the first return/report the final return/report
+
+an amended return/report
+
+X| Form 5558
+
+automatic extension
+
+special extension (enter description)
+
+a multiple-employer plan (Filers checking this box must provide participating
+employer information in accordance with the form instructions.)
+
+a short plan year return/report (less than 12 months)
+
+the DFVC program
+
+E If this is a retroactively adopted plan permitted by SECURE Act section 201, check here... ..........0-020202020 ee »
+
+Part Il
+
+Basic Plan Information—enter all requested information
+
+1a Name of plan
+
+CREDIT UNION RETIREMENT PLAN ASSOCIATION 401(K) PLAN
+
+1b Three-digit plan
+
+number (PN) > 333
+
+1c Effective date of plan
+
+01/01/2014
+
+2a Plan sponsor's name (employer, if for a single-employer plan)
+Mailing address (include room, apt., suite no. and street, or P.O. Box)
+
+City or town, state or
+
+10700 W. RESEARCH DRIVE
+SUITE 165
+MILWAUKEE, WI 53226
+
+rovince, Sountry, and ZIP or foreign postal code (if foreign, see instructions)
+CREDIT UNION RETIREMENT PLAN ASS‘
+
+OCIATION
+
+2b Employer Identification
+Number (EIN)
+
+35-2491258
+
+2c Plan Sponsor's telephone
+number
+
+608-231-4000
+
+2d _ Business code (see
+instructions)
+
+561900
+
+Caution: A penalty for the late or incomplete filing of this return/report will be assessed unless reasonable cause is established.
+
+Under penalties of perjury and other penalties set forth in the instructions, | declare that | have examined this return/report, including accompanying schedules,
+statements and attachments, as well as the electronic version of this return/report, and to the best of my knowledge and belief, it is true, correct, and complete.
+
+SIGN | Filed with authorized/valid electronic signature. 10/11/2024 MARK WERNER
+HERE
+Signature of plan administrator Date Enter name of individual signing as plan administrator
+SIGN
+HERE
+Signature of employer/plan sponsor Date Enter name of individual signing as employer or plan sponsor
+SIGN
+HERE
+Signature of DFE Date Enter name of individual signing as DFE
+
+For Paperwork Reduction Act Notice, see the Instructions for Form 5500.
+
+Form 5500 (2023)
+v. 230707
+
+
+--- Page 25 ---
+SCHEDULE MEP MULTIPLE-EMPLOYER RETIREMENT
+
+OMB No. 1210-0110
+(Form 5500) PLAN INFORMATION
+Department of the Treasury This schedule is required to be filed under section 104 of the 2023
+Internal Revenue Service Employee Retirement Income Security Act of 1974 (ERISA) and
+Depariment of Labor Section 6058(a) of the Internal Revenue Code (the Code)
+
+Employee Benefits Security Administration
+
+> File as an attachment to Form 5500. This Form is Open to Public
+
+Inspection
+For calendar plan year 2023 or fiscal plan year beginning 01/01/2023 and ending 12/31/2023
+A Name of plan B_Three-digit 333
+CREDIT UNION RETIREMENT PLAN ASSOCIATION 401(K) PLAN Plan number (PN)...... »
+
+Cc Plan administrator's name as shown on line 3a of Form 5500/Form 5500-SF
+PLAN ADMINISTRATION COMMITTEE
+
+D = Administrator's EIN
+61-1726723
+
+Part 1 Type of Multiple-Employer Pension Plan. All multiple-employer pension plans must complete.
+
+1 Check the appropriate box to indicate type of multiple-employer pension plan. (Only defined contribution plans may check lines 1a, 1b,
+and 1c. Defined benefit plans and defined contribution plans not checking lines 1a, 1b, or 1¢ should check line 1d. See Instructions).
+a association retirement plan (See 29 CFR 2510.3-55) (Complete Part II)
+
+b {J professional employer organization plan (PEO Plan) (See 29 CFR 29 CFR 2510.3-55) (Complete Part II)
+c_ [J pooled employer plan (PEP) (See 29 CFR 2510.3-44) (Complete Parts II and III)
+d
+
+( other multiple-employer pension plan (Describe) (Complete Part Il)
+
+Part ll | Participating Employer Information.
+
+2 All multiple-employer pension plans that are subject to section 210(a) of ERISA (see instructions for filing the Form 5500) must complete Part Il, in
+addition to Part |, in accordance with the instructions, to report the information for each employer participating in the multiple-employer pension plan.
+Defined contribution plans must complete lines 2a-2d. All other multiple-employer pension plans complete lines 2a-2c only. Complete as
+
+many entries as needed to list the required information for each participating employer that is not an individual person (see instructions).
+
+2a Name of Participating Employer 2b EIN 2c Percentage of Total 2d Aggregate Account Balances Attributable
+4ST MIDAMERICA CREDIT UNION Contributions for the Plan Year to Participating Employer
+37-0580723 0.78 17290884
+2a Name of Participating Employer 2b EIN 2c Percentage of Total Contributions 2d Aggregate Account Balances Attributable
+ALABAMA STATE EMPLOYEES CU for the Plan Year to Participating Employer
+63-0348156 0.30 4262981
+
+CAUTION Do not individually list information for working owners (see instructions and 29 CFR 2510.3-55(d)(2)) or other individuals who are
+participants or beneficiaries in the plan or arrangement that are no longer associated with a particular participating employer or participating
+employer plan (see instructions). Providing identifying information for individuals may result in rejection of this filing. If there are any such
+
+individuals in the plan, answer “Yes” to line 2e and provide the total information for all such individuals, without providing names or other identifying
+information.
+
+2e Does the plan include any individuals not participating through an employer or who are individual working 2e CYes [No
+owners?
+
+2f If you answer “Yes’ in line 2e, enter a good faith estimate of the percentage of total contributions made by oF
+all such individuals that are not listed on line 2a during the plan year.
+
+2g If you answer “Yes” in Line 2e, enter the aggregate account balances for all such individuals that are not
+listed on line 2a. 29
+
+For Paperwork Reduction Act Notice, see the Instructions for Form 5500.
+
+Schedule MEP (2023)
+v. 230728
+
+--- Page 26 ---
+Schedule MEP (Form 5500)
+
+Part Il
+
+Participa’
+
+g Employer Informa‘
+
+n (Continued).
+
+Pagel-| 1
+
+Use this page for additional participating employer information.
+2 All multiple-employer pension plans that are subject to section 210(a) of ERISA (see instructions for filing the Form 5500) must complete Part Il, in
+addition to Part I, in accordance with the instructions, to report the information for each employer participating in the multiple-employer pension plan.
+Defined contribution plans must complete lines 2a-2d. All other multiple-employer pension plans complete
+lines 2a-2c only. Complete as many entries as needed to list the required information for each participating
+employer that is not an individual person (see instructions).
+
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+ALOHA PACIFIC FCU
+99-0073432 1.23 30243873
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+ALTANA FEDERAL CREDIT UNION
+81-0231683 0.76 20548793
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+APCO EMPLOYEES CREDIT UNION
+63-0328360 0.62 18010320
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+ARIZONA CENTRAL CREDIT UNION
+86-0098350 0.79 11204355
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+AUBURN COMMUNITY FEDERAL CU
+15-0535523 0.04 785748
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+BAY FEDERAL CREDIT UNION
+94-1448021 1.49 28480686
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+BAYER HERITAGE FEDERAL CREDIT UNION
+55-0458073 0.43 9474095
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+BELCO COMMUNITY CREDIT UNION
+23-1445884 0.87 17949624
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+BRAZOS VALLEY SCHOOLS CU
+74-1397874 0.54 9951217
+
+CAUTION Do not individually list information for working owners (see instructions and 29 CFR 2510.3-55(d)(2)) or other individuals who are
+participants or beneficiaries in the plan or arrangement that are no longer associated with a particular participating employer or participating
+employer plan (see instructions). Providing identifying information for individuals may result in rejection of this filing. If there are any such
+individuals in the plan, answer “Yes” to line 2e and provide the total information for all such individuals, without providing names or other identifying
+
+information.
+
+
+--- Page 27 ---
+Schedule MEP (Form 5500)
+
+Part Il | Participa
+
+g Employer Informa‘
+
+n (Continued).
+
+Pagel-| 2
+
+Use this page for additional participating employer information.
+2 All multiple-employer pension plans that are subject to section 210(a) of ERISA (see instructions for filing the Form 5500) must complete Part Il, in
+addition to Part I, in accordance with the instructions, to report the information for each employer participating in the multiple-employer pension plan.
+Defined contribution plans must complete lines 2a-2d. All other multiple-employer pension plans complete
+lines 2a-2c only. Complete as many entries as needed to list the required information for each participating
+employer that is not an individual person (see instructions).
+
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+CALIFORNIA COAST CREDIT UNION
+95-1185803 2.61 54035036
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+CAPITAL CREDIT UNION
+45-0226724 0.75 15586881
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+CARTER FEDERAL CREDIT UNION
+72-0476576 0.52 9131893
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+CERTIFIED FEDERAL CREDIT UNION
+95-6064741 0.55 15144262
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+COASTLIFE CREDIT UNION
+74-1505143 0.34 4066082
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+COMMONWEALTH CENTRAL CREDIT UNION
+94-6087440 0.68 16163189
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+COMMUNITY CHOICE CREDIT UNION
+42-0778245 1.37 21029266
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+COMMUNITY FINANCIAL CREDIT UNION
+38-1447620 2.39 40584462
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+COMMUNITY FIRST CREDIT UNION
+94-1541515 0.89 11510412
+
+CAUTION Do not individually list information for working owners (see instructions and 29 CFR 2510.3-55(d)(2)) or other individuals who are
+participants or beneficiaries in the plan or arrangement that are no longer associated with a particular participating employer or participating
+employer plan (see instructions). Providing identifying information for individuals may result in rejection of this filing. If there are any such
+individuals in the plan, answer “Yes” to line 2e and provide the total information for all such individuals, without providing names or other identifying
+
+information.
+
+
+--- Page 28 ---
+Schedule MEP (Form 5500)
+
+Part Il | Participa
+
+g Employer Informa‘
+
+n (Continued).
+
+Pagel-| 3
+
+Use this page for additional participating employer information.
+2 All multiple-employer pension plans that are subject to section 210(a) of ERISA (see instructions for filing the Form 5500) must complete Part Il, in
+addition to Part I, in accordance with the instructions, to report the information for each employer participating in the multiple-employer pension plan.
+Defined contribution plans must complete lines 2a-2d. All other multiple-employer pension plans complete
+lines 2a-2c only. Complete as many entries as needed to list the required information for each participating
+employer that is not an individual person (see instructions).
+
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+CORNERSTONE CREDIT UNION
+LEAGUE 75-0603700 141 23980194
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+COVANTAGE CREDIT UNION
+39-0945701 2.88 47539606
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+CPM FEDERAL CREDIT UNION
+57-0363277 0.71 8971765
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+CREDIT UNION OF NEW JERSEY, A FCU
+21-0628526 0.35 10804457
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+CU HAWAII FEDERAL CREDIT UNION
+99-0087292 0.25 6810084
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+CUC MANAGEMENT, INC.
+13-5582889 0.33 17527113
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+DADE COUNTY FEDERAL CREDIT
+UNION 59-0684192 0.87 12868736
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+DEL NORTE CREDIT UNION
+85-0124035 1.36 17138240
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+DUGOOD FEDERAL CREDIT UNION
+74-1470665 0.69 11216490
+
+CAUTION Do not individually list information for working owners (see instructions and 29 CFR 2510.3-55(d)(2)) or other individuals who are
+participants or beneficiaries in the plan or arrangement that are no longer associated with a particular participating employer or participating
+employer plan (see instructions). Providing identifying information for individuals may result in rejection of this filing. If there are any such
+individuals in the plan, answer “Yes” to line 2e and provide the total information for all such individuals, without providing names or other identifying
+
+information.
+
+
+--- Page 29 ---
+Schedule MEP (Form 5500)
+
+Part Il
+
+Participa’
+
+g Employer Informa‘
+
+n (Continued).
+
+Pagel-| 4
+
+Use this page for additional participating employer information.
+2 All multiple-employer pension plans that are subject to section 210(a) of ERISA (see instructions for filing the Form 5500) must complete Part Il, in
+addition to Part I, in accordance with the instructions, to report the information for each employer participating in the multiple-employer pension plan.
+Defined contribution plans must complete lines 2a-2d. All other multiple-employer pension plans complete
+lines 2a-2c only. Complete as many entries as needed to list the required information for each participating
+employer that is not an individual person (see instructions).
+
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+EMBOLD CREDIT UNION
+93-0470148 0.69 7873421
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+ENRICHMENT FCU
+62-0471057 0.71 19904114
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+ENVISTA CREDIT UNION
+48-0669498 0.42 7848864
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+FAMILY SAVINGS CU
+63-0355713 1.06 16833405
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+FIRST CITY CREDIT UNION
+95-1679662 0.63 15488028
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+FIRST COMMUNITY CREDIT UNION
+43-0687711 2.30 41464195
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+FIRST CREDIT UNION
+86-0100904 1.02 16547952
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+FIRST SOUTH FINANCIAL CREDIT
+UNION 62-0579508 0.49 11647001
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+FIRSTLIGHT FCU
+74-1259391 2.11 28456849
+
+CAUTION Do not individually list information for working owners (see instructions and 29 CFR 2510.3-55(d)(2)) or other individuals who are
+participants or beneficiaries in the plan or arrangement that are no longer associated with a particular participating employer or participating
+employer plan (see instructions). Providing identifying information for individuals may result in rejection of this filing. If there are any such
+individuals in the plan, answer “Yes” to line 2e and provide the total information for all such individuals, without providing names or other identifying
+
+information.
+
+
+--- Page 30 ---
+Schedule MEP (Form 5500)
+
+Part Il | Participa
+
+g Employer Informa‘
+
+n (Continued).
+
+Pagel-| 5
+
+Use this page for additional participating employer information.
+2 All multiple-employer pension plans that are subject to section 210(a) of ERISA (see instructions for filing the Form 5500) must complete Part Il, in
+addition to Part I, in accordance with the instructions, to report the information for each employer participating in the multiple-employer pension plan.
+Defined contribution plans must complete lines 2a-2d. All other multiple-employer pension plans complete
+lines 2a-2c only. Complete as many entries as needed to list the required information for each participating
+employer that is not an individual person (see instructions).
+
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+FORT MCCLELLAN CREDIT UNION
+63-0346919 0.02 565489
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+GECU
+74-0650998 5.32 142406652
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+GENCO FEDERAL CREDIT UNION
+74-1200767 0.37 7346464
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+GEORGIA CREDIT UNION AFFILIATES, INC.
+58-1556060 0.20 3756253
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+GOLDEN PLAINS CREDIT UNION
+48-0587457 0.15 6716925
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+HAWAI] COMMUNITY FEDERAL CU
+99-0073417 0.48 15902567
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+HEARTLAND CREDIT UNION
+48-0612011 0.74 12347361
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+HFS FEDERAL CREDIT UNION
+99-0074795 0.69 22394849
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+HORIZON CREDIT UNION
+91-0567788 2.10 36626155
+
+CAUTION Do not individually list information for working owners (see instructions and 29 CFR 2510.3-55(d)(2)) or other individuals who are
+participants or beneficiaries in the plan or arrangement that are no longer associated with a particular participating employer or participating
+employer plan (see instructions). Providing identifying information for individuals may result in rejection of this filing. If there are any such
+individuals in the plan, answer “Yes” to line 2e and provide the total information for all such individuals, without providing names or other identifying
+
+information.
+
+
+--- Page 31 ---
+Schedule MEP (Form 5500)
+
+Part Il | Participa
+
+g Employer Informa‘
+
+n (Continued).
+
+Pagel-| 6
+
+Use this page for additional participating employer information.
+2 All multiple-employer pension plans that are subject to section 210(a) of ERISA (see instructions for filing the Form 5500) must complete Part Il, in
+addition to Part I, in accordance with the instructions, to report the information for each employer participating in the multiple-employer pension plan.
+Defined contribution plans must complete lines 2a-2d. All other multiple-employer pension plans complete
+lines 2a-2c only. Complete as many entries as needed to list the required information for each participating
+employer that is not an individual person (see instructions).
+
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+ILLINOIS COMMUNITY CREDIT UNION
+36-1848945 0.10 3302434
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+INNOVATIONS FCU
+59-0706843 0.84 14313689
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+JEFFERSON FINANCIAL FCU
+72-0649178 0.93 16441410
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+LEADERS CREDIT UNION
+62-0681671 1.11 15734959
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+LEVO FCU 401(k)
+46-0225850 0.17 4022864
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+LSCU SERVICE CORPORATION, INC.
+59-1086132 1.03 31871542
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+MARINE FEDERAL CREDIT UNION
+56-0706163 0.79 18440651
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+MARKET USA FEDERAL CREDIT UNION
+52-6040916 0.21 6627956
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+MATANUSKA VALLEY FEDERAL CU
+92-0021381 0.59 11785184
+
+CAUTION Do not individually list information for working owners (see instructions and 29 CFR 2510.3-55(d)(2)) or other individuals who are
+participants or beneficiaries in the plan or arrangement that are no longer associated with a particular participating employer or participating
+employer plan (see instructions). Providing identifying information for individuals may result in rejection of this filing. If there are any such
+individuals in the plan, answer “Yes” to line 2e and provide the total information for all such individuals, without providing names or other identifying
+
+information.
+
+
+--- Page 32 ---
+Schedule MEP (Form 5500)
+
+Part Il
+
+Participa’
+
+g Employer Informa‘
+
+n (Continued).
+
+Pagel-| 7
+
+Use this page for additional participating employer information.
+2 All multiple-employer pension plans that are subject to section 210(a) of ERISA (see instructions for filing the Form 5500) must complete Part Il, in
+addition to Part I, in accordance with the instructions, to report the information for each employer participating in the multiple-employer pension plan.
+Defined contribution plans must complete lines 2a-2d. All other multiple-employer pension plans complete
+lines 2a-2c only. Complete as many entries as needed to list the required information for each participating
+employer that is not an individual person (see instructions).
+
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+MEMPHIS CITY ECU
+62-0630690 0.35 5046826
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+MID AMERICAN CREDIT UNION
+48-0542669 0.48 11883209
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+MID OREGON FEDERAL CREDIT UNION
+93-0495636 0.86 8586938
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+NECHES FEDERAL CREDIT UNION
+74-1288128 0.91 16035180
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+NEXTMARK CREDIT UNION
+54-0647188 0.53 10185796
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+NORTH STAR COMMUNITY CREDIT UNION
+45-0260598 0.41 5170763
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+NORTHCOUNTRY FEDERAL CREDIT UNION
+03-0184742 1.19 20088913
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+OKLAHOMA CENTRAL CREDIT UNION
+73-0731221 0.48 8483871
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+OPERATING ENGINEERS LOCAL UNION 3
+FCU 94-6131870 0.65 9610572
+
+CAUTION Do not individually list information for working owners (see instructions and 29 CFR 2510.3-55(d)(2)) or other individuals who are
+participants or beneficiaries in the plan or arrangement that are no longer associated with a particular participating employer or participating
+employer plan (see instructions). Providing identifying information for individuals may result in rejection of this filing. If there are any such
+individuals in the plan, answer “Yes” to line 2e and provide the total information for all such individuals, without providing names or other identifying
+
+information.
+
+
+--- Page 33 ---
+Schedule MEP (Form 5500)
+
+Part Il
+
+Participa’
+
+g Employer Informa‘
+
+n (Continued).
+
+Pagel-| 8
+
+Use this page for additional participating employer information.
+2 All multiple-employer pension plans that are subject to section 210(a) of ERISA (see instructions for filing the Form 5500) must complete Part Il, in
+addition to Part I, in accordance with the instructions, to report the information for each employer participating in the multiple-employer pension plan.
+Defined contribution plans must complete lines 2a-2d. All other multiple-employer pension plans complete
+lines 2a-2c only. Complete as many entries as needed to list the required information for each participating
+employer that is not an individual person (see instructions).
+
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+PALISADES FEDERAL CREDIT UNION
+13-6114569 0.24 2792720
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+PARTNER COLORADO CREDIT UNION
+84-0187935 0.44 9173877
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+PATHWAYS FINANCIAL CREDIT UNION
+23-7247091 0.49 8953731
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+PREMIER MEMBERS CREDIT UNION
+84-0500890 1.32 19520836
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+QUORUM FEDERAL CREDIT UNION
+13-1517541 1.25 23373748
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+RED CANOE CREDIT UNION
+91-0565155 1.88 50922482
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+RELYON CREDIT UNION
+75-0926100 0.19 3746273
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+RIO GRANDE CREDIT UNION
+85-0116621 0.65 6969791
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+SEACOMM FEDERAL CREDIT UNION
+14-6036899 0.53 11685801
+
+CAUTION Do not individually list information for working owners (see instructions and 29 CFR 2510.3-55(d)(2)) or other individuals who are
+participants or beneficiaries in the plan or arrangement that are no longer associated with a particular participating employer or participating
+employer plan (see instructions). Providing identifying information for individuals may result in rejection of this filing. If there are any such
+individuals in the plan, answer “Yes” to line 2e and provide the total information for all such individuals, without providing names or other identifying
+
+information.
+
+
+--- Page 34 ---
+Schedule MEP (Form 5500)
+
+Part Il
+
+Participa’
+
+g Employer Informa‘
+
+n (Continued).
+
+Pagel-| 9
+
+Use this page for additional participating employer information.
+2 All multiple-employer pension plans that are subject to section 210(a) of ERISA (see instructions for filing the Form 5500) must complete Part Il, in
+addition to Part I, in accordance with the instructions, to report the information for each employer participating in the multiple-employer pension plan.
+Defined contribution plans must complete lines 2a-2d. All other multiple-employer pension plans complete
+lines 2a-2c only. Complete as many entries as needed to list the required information for each participating
+employer that is not an individual person (see instructions).
+
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+SECURITY FIRST FCU
+74-1119459 0.26 2685255
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+SECURITYPLUS FCU
+52-0584127 0.42 6229586
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+SELFRELIANCE FEDERAL CREDIT
+UNION 36-2259531 0.56 13909916
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+SERVICE 1ST FEDERAL CREDIT UNION
+23-1975677 0.58 12092436
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+SHELL FEDERAL CREDIT UNION
+74-1132577 2.22 27024528
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+SIU CREDIT UNION
+37-0722141 0.54 6154779
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+SKYONE FEDERAL CREDIT UNION
+95-1659710 0.97 13156673
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+SOLARITY CREDIT UNION
+91-6049071 0.84 13976955
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+SOOPER CREDIT UNION
+84-0419976 0.55 9862702
+
+CAUTION Do not individually list information for working owners (see instructions and 29 CFR 2510.3-55(d)(2)) or other individuals who are
+participants or beneficiaries in the plan or arrangement that are no longer associated with a particular participating employer or participating
+employer plan (see instructions). Providing identifying information for individuals may result in rejection of this filing. If there are any such
+individuals in the plan, answer “Yes” to line 2e and provide the total information for all such individuals, without providing names or other identifying
+
+information.
+
+
+--- Page 35 ---
+Schedule MEP (Form 5500)
+
+Part Il
+
+Participa’
+
+g Employer Informa‘
+
+n (Continued).
+
+Page 1-| 10
+
+Use this page for additional participating employer information.
+2 All multiple-employer pension plans that are subject to section 210(a) of ERISA (see instructions for filing the Form 5500) must complete Part Il, in
+addition to Part I, in accordance with the instructions, to report the information for each employer participating in the multiple-employer pension plan.
+Defined contribution plans must complete lines 2a-2d. All other multiple-employer pension plans complete
+lines 2a-2c only. Complete as many entries as needed to list the required information for each participating
+employer that is not an individual person (see instructions).
+
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+SPOKANE CITY CREDIT UNION
+91-0598454 0.06 1812921
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+SRP FEDERAL CREDIT UNION
+57-0621127 2.31 35567887
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+SUNCOAST CREDIT UNION
+59-0291451 13.18 158278747
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+TEAM ONE CREDIT UNION
+38-6066199 0.90 20418254
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+TECH CREDIT UNION
+35-0885375 0.51 12702385
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+TENNESSEE VALLEY FEDERAL CU
+62-0156595 1.98 35195070
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+TOPSIDE FEDERAL CREDIT UNION
+54-6042665 0.71 13376475
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+TOWN AND COUNTRY CREDIT UNION
+45-0278124 1.42 22824975
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+TRUE SKY FEDERAL CREDIT UNION
+73-0564572 0.53 14903428
+
+CAUTION Do not individually list information for working owners (see instructions and 29 CFR 2510.3-55(d)(2)) or other individuals who are
+participants or beneficiaries in the plan or arrangement that are no longer associated with a particular participating employer or participating
+employer plan (see instructions). Providing identifying information for individuals may result in rejection of this filing. If there are any such
+individuals in the plan, answer “Yes” to line 2e and provide the total information for all such individuals, without providing names or other identifying
+
+information.
+
+
+--- Page 36 ---
+Schedule MEP (Form 5500)
+
+Part Il
+
+Participa’
+
+g Employer Informa‘
+
+n (Continued).
+
+Pagel-| 11
+
+Use this page for additional participating employer information.
+2 All multiple-employer pension plans that are subject to section 210(a) of ERISA (see instructions for filing the Form 5500) must complete Part Il, in
+addition to Part I, in accordance with the instructions, to report the information for each employer participating in the multiple-employer pension plan.
+Defined contribution plans must complete lines 2a-2d. All other multiple-employer pension plans complete
+lines 2a-2c only. Complete as many entries as needed to list the required information for each participating
+employer that is not an individual person (see instructions).
+
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+US EMPLOYEES O C FEDERAL CU
+73-0580225 0.11 1585120
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+U.S. EAGLE FEDERAL CREDIT UNION
+85-0102181 1.44 16547253
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+UNCLE CREDIT UNION
+94-1404327 0.73 8832251
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+UNITED SAVINGS CREDIT UNION
+45-0226667 0.16 2595835
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+UNITEDONE CREDIT UNION
+39-0126914 0.38 6971446
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+USF FEDERAL CREDIT UNION
+59-1009532 1.12 17573950
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+VALLEY FIRST CREDIT UNION
+94-1439553 0.59 9881142
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+WESTBY CO-OP CREDIT UNION
+39-0966273 1.03 19569414
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+WORLD COUNCIL OF CREDIT UNIONS, INC
+39-1143339 0.61 14263912
+
+CAUTION Do not individually list information for working owners (see instructions and 29 CFR 2510.3-55(d)(2)) or other individuals who are
+participants or beneficiaries in the plan or arrangement that are no longer associated with a particular participating employer or participating
+employer plan (see instructions). Providing identifying information for individuals may result in rejection of this filing. If there are any such
+individuals in the plan, answer “Yes” to line 2e and provide the total information for all such individuals, without providing names or other identifying
+
+information.
+
+
+--- Page 37 ---
+Schedule MEP (Form 5500)
+
+Part Il | Participati
+
+g Employer Information (Continued).
+
+Pagel-| 12
+
+Use this page for additional participating employer information.
+2 All multiple-employer pension plans that are subject to section 210(a) of ERISA (see instructions for filing the Form 5500) must complete Part Il, in
+addition to Part I, in accordance with the instructions, to report the information for each employer participating in the multiple-employer pension plan.
+Defined contribution plans must complete lines 2a-2d. All other multiple-employer pension plans complete
+lines 2a-2c only. Complete as many entries as needed to list the required information for each participating
+employer that is not an individual person (see instructions).
+
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+ZING CREDIT UNION
+84-0405947 0.41 8617034
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+Employer Contributions for the Plan Year | Attributable to Participating Employer
+2a Name of Participating 2b EIN 2c Percentage of Total 2d Aggregate Account Balances
+
+Employer
+
+Contributions for the Plan Year
+
+Attributable to Participating Employer
+
+CAUTION Do not individually list information for working owners (see instructions and 29 CFR 2510.3-55(d)(2)) or other individuals who are
+participants or beneficiaries in the plan or arrangement that are no longer associated with a particular participating employer or participating
+employer plan (see instructions). Providing identifying information for individuals may result in rejection of this filing. If there are any such
+individuals in the plan, answer “Yes” to line 2e and provide the total information for all such individuals, without providing names or other identifying
+
+information.
+
